@@ -1,3 +1,6 @@
 # 7-sept-2024
-Hi Sam
+
+Hello world 
+pythone programming i have done today.
+hi sam
 
